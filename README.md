@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/b3eed-3an-rouhy/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Sync Licensing for B3eed 3an Rouhy](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
