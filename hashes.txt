@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - B3eed 3an Rouhy
+
+This log tracks the cryptographic history and versioning for the song **B3eed 3an Rouhy** (b3eed-3an-rouhy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T23:55:04.608536 | `v1` | `864b15479cf91d5d248aa78519d59e5cb68b1b8c89226a273c80990b5fedfee3` | `bdd32c5722be91a7fe3807945b562bad4085e3bea09ebd2bd5f3fd0f56181bf9` | `2026-05-08_b3eed-3an-rouhy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
